@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá, bom ter você por aqui! 👋
+Sou programador front-end.
 
+- 📚 Estudante de Ciência da Computação
+- 💻 Aprendendo sobre front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 
 
 ## 🌐 Socials:
