@@ -25,10 +25,10 @@ Sou programador front-end.
 <table>
 <tr>
 <td>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdebussi&show_icons=true&theme=bear&count_private=true"/>
 </td>
 <td>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=rdebussi&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=rdebussi&show_icons=false&show_icons=true&theme=bear&count_private=true" />
 </td>
 </tr>
 </table>
