@@ -22,7 +22,13 @@ Sou programador front-end.
 ---
 
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdebussi&show_icons=false&theme=bear&count_private=true"/>
+<table>
+<tr>
+<td>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
+</td>
+<td>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=rdebussi&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
+</td>
+</tr>
+</table>
